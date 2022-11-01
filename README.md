@@ -1,7 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Munir</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<main>
 <img src='./github-header-image.png'/>
+
+</main>
 
 - 🔭 I’m currently working on [Flexbean](flexbean.netlify.app)
 
