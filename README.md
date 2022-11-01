@@ -1,4 +1,4 @@
-<main>
+<main style="width:100%: text-align:center;">
 <img src='./github-header-image.png'/>
 
 </main>
